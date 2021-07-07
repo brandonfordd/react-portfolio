@@ -27,7 +27,7 @@
     --box-shadow: 0 0 20px #51fcba41;
 }
 
- body {
+body {
     background-color: var(--bg-color) !important;
 }
 
@@ -38,6 +38,11 @@ div {
 .p-4 {
     background-color: var(--secondary-bg-color)
 }
+
+.m-auto {
+    margin-top: 10rem !important;
+}
+
 .aboutCard {
     margin:0 auto;
     margin-top: 50px;

@@ -27,6 +27,24 @@
   --box-shadow: 0 0 20px #51fcba41;
 }
 
+html, 
+body {
+  height: 100% !important;
+}
+
+#root {
+  height: 100%;
+}
+
+#main {
+  height: 100%;
+}
+
+#display {
+  min-height: 97%;
+  /* must be same height as the footer */
+}
+
 .m-lc {
   margin-left: 0px;
 }
@@ -45,7 +63,7 @@ nav a:hover {
 }
 
 .nav-brand-custom {
-  margin-right: 4px;
+  margin-left: 1rem ;
 }
 
 .dropdown-menu {
@@ -98,6 +116,113 @@ nav a:hover {
   -webkit-text-fill-color: transparent;
   animation: shine 20s linear infinite;
 }
+
+/* mediaquerys for mobile ui */
+@media screen and (max-width: 845px) {
+  .main-card-body p{
+      font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .main-card-body {
+      /* height: 185px; */
+  }
+}
+
+@media screen and (min-width: 600px) {
+  .headerImg {
+      height: 300px;
+      overflow: hidden;
+  }
+}
+
+@media screen and (max-width: 990px) {
+  .m-lc {
+      margin-left: 10px;
+  }
+  .assignmentsTitle {
+      margin-right: 0px;
+  }
+  
+  .projectsTitle {
+      margin-left: 0px;
+  }
+}
+
+@media screen and (max-width: 470px) {
+  .quote p {
+      font-size: 25px;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .quote p {
+      font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .quote p {
+      font-size: 18px;
+  }
+  .resumeDBtn {
+      width: 50%;
+      font-size: 10px;
+  }
+  .resumePBtn {
+      width: 50%;
+      font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 345px) {
+  .quote p {
+      font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 326px) {
+  .quote p {
+      font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 295px) {
+  .quote p {
+      font-size: 10px;
+  }
+  .resumeDBtn {
+      width: 70%;
+      font-size: 2px;
+  }
+  .resumePBtn {
+      width: 65%;
+      font-size: 2px;
+  }
+}
+
+@media screen and (max-width: 261px) {
+  .quote p {
+      font-size: 1px !important;
+  }
+}
+
+@media screen and (max-width: 690px) {
+  .resumeT {
+      margin-top: 60px;
+  }
+
+  #about-me {
+      margin-top: 20px;
+  }
+  #about-me h1 {
+      margin-top: 40px;
+  }
+}
+
+
+
 
 /* random css */
 .p-border-color {
@@ -170,4 +295,42 @@ nav a:hover {
 
 .textS {
   text-shadow: 2px 1px 0px var(--tertiary-color);
+}
+
+/* Separator */
+hr {
+  margin-top: 26px;
+  margin-bottom: 26px;
+  border: 0;
+  border-top: 1px solid var(--primary-colorD);
+  padding: 10px;
+}
+
+/* custom separators for each sections */
+.hrProjects {
+  margin-top: 0px;
+  margin-bottom: 26px;
+  border: 0;
+  border-top: 1px solid var(--primary-colorD);
+}
+
+.hrAssignments {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  border: 0;
+  border-top: 1px solid var(--primary-colorD);
+}
+
+.hrAbout {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  border: 0;
+  border-top: 1px solid var(--primary-colorD);
+}
+
+.hrSkills {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  border: 0;
+  border-top: 1px solid var(--primary-colorD);
 }

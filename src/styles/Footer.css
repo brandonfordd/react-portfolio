@@ -1,0 +1,9 @@
+/* footer css */
+footer {
+    background-color: var(--secondary-bg-color);
+    color: var(--font-color);
+    position: relative;
+    bottom: 0;
+    /* margin-top: 100%; */
+    width: 100%;
+}
