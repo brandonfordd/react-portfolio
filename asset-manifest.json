@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/brandonfordd/react-portfolio/static/css/main.feb45129.chunk.css",
+    "main.js": "/brandonfordd/react-portfolio/static/js/main.8d254c07.chunk.js",
+    "main.js.map": "/brandonfordd/react-portfolio/static/js/main.8d254c07.chunk.js.map",
+    "runtime-main.js": "/brandonfordd/react-portfolio/static/js/runtime-main.244ae318.js",
+    "runtime-main.js.map": "/brandonfordd/react-portfolio/static/js/runtime-main.244ae318.js.map",
+    "static/css/2.4be38407.chunk.css": "/brandonfordd/react-portfolio/static/css/2.4be38407.chunk.css",
+    "static/js/2.9cfe7797.chunk.js": "/brandonfordd/react-portfolio/static/js/2.9cfe7797.chunk.js",
+    "static/js/2.9cfe7797.chunk.js.map": "/brandonfordd/react-portfolio/static/js/2.9cfe7797.chunk.js.map",
+    "index.html": "/brandonfordd/react-portfolio/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/brandonfordd/react-portfolio/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.feb45129.chunk.css.map": "/brandonfordd/react-portfolio/static/css/main.feb45129.chunk.css.map",
+    "static/js/2.9cfe7797.chunk.js.LICENSE.txt": "/brandonfordd/react-portfolio/static/js/2.9cfe7797.chunk.js.LICENSE.txt",
+    "static/media/categories.ce6feffe.gif": "/brandonfordd/react-portfolio/static/media/categories.ce6feffe.gif",
+    "static/media/horiseon_site.6c657567.png": "/brandonfordd/react-portfolio/static/media/horiseon_site.6c657567.png",
+    "static/media/me.25bb8e8b.jpg": "/brandonfordd/react-portfolio/static/media/me.25bb8e8b.jpg",
+    "static/media/mvctech.3a6e3146.png": "/brandonfordd/react-portfolio/static/media/mvctech.3a6e3146.png",
+    "static/media/notetaker_ppreview.e24db547.gif": "/brandonfordd/react-portfolio/static/media/notetaker_ppreview.e24db547.gif",
+    "static/media/patienttrackergif.5600237f.gif": "/brandonfordd/react-portfolio/static/media/patienttrackergif.5600237f.gif",
+    "static/media/readme_preview.37a5a56c.gif": "/brandonfordd/react-portfolio/static/media/readme_preview.37a5a56c.gif",
+    "static/media/regex-url.d89c3dba.png": "/brandonfordd/react-portfolio/static/media/regex-url.d89c3dba.png",
+    "static/media/screenshot-dayplanner.f35483e4.png": "/brandonfordd/react-portfolio/static/media/screenshot-dayplanner.f35483e4.png",
+    "static/media/screenshot-javaquiz.622d1186.png": "/brandonfordd/react-portfolio/static/media/screenshot-javaquiz.622d1186.png",
+    "static/media/screenshot-movienight.38b0b900.png": "/brandonfordd/react-portfolio/static/media/screenshot-movienight.38b0b900.png",
+    "static/media/screenshot-passgen.6266aef3.png": "/brandonfordd/react-portfolio/static/media/screenshot-passgen.6266aef3.png",
+    "static/media/screenshot-weatherapp.48ce7a3b.png": "/brandonfordd/react-portfolio/static/media/screenshot-weatherapp.48ce7a3b.png",
+    "static/media/sql_gif.2199fb27.gif": "/brandonfordd/react-portfolio/static/media/sql_gif.2199fb27.gif",
+    "static/media/team_profile.571e62a6.gif": "/brandonfordd/react-portfolio/static/media/team_profile.571e62a6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.244ae318.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.9cfe7797.chunk.js",
+    "static/css/main.feb45129.chunk.css",
+    "static/js/main.8d254c07.chunk.js"
+  ]
+}
