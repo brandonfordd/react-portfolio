@@ -39,7 +39,8 @@ class Contact extends React.Component {
         <div class="container">
           <div class="section-title">
             <h2>Contact</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>Like to reach out? Contact me from the form below and watch out for an email!
+            </p>
           </div>
           <div class="row" data-aos="fade-in">
             <div class="col-lg-5 d-flex align-items-stretch">

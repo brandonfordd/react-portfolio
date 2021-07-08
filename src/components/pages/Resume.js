@@ -8,63 +8,65 @@ export default function Resume() {
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Welcome to my resume! Below you'll find my previous work experience and knowledge! Enjoy and Contact me if you have any questions:)</p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
-              <h4>Alex Smith</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <h4>Brandon Ford</h4>
+              <p><em>
+                Reliable, quality-focused construction technician/ upcoming Web Developer
+                seeking opportunities to learn new skills and develop on the job experience in the
+                technology industry. Through my work experience and personal interests, I am a
+                quick study and can learn new skills with hands-on training. Looking forward to
+                providing my skills in an environment where I can grow and make a difference.
+              </em></p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>Ashbrun 20147, Virginia</li>
+                <li>(571) 420-9520</li>
+                <li>brandon.ford.617@gmail.com</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Master of Fine Arts &amp; Graphic Design</h4>
-              <h5>2015 - 2016</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
-            </div>
-            <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <h4> Advanced Javascript &amp; Front and Back End Web Design</h4>
+              <h5>2021 - 2021</h5>
+              <p><em>George Washington University, Ashburn , VA</em></p>
+              <p> An online Bootcamp designed to teach advanced javascript skill to develop websites, build a career in web development, and learn technical skills in the Javascript language. </p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Construction Technician </h4>
+              <h5>2018 - 2021</h5>
+              <p><em>Connor Construction, Arlington, VA </em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Lead crew member for home improvement projects providing guidance, distribute work tasks, and inspect sites after completion.</li>
+                <li>Interacts with customers and home-owners representing the company and providing excellent customers service.</li>
+                <li>Gained practical hands-on knowledge of different aspects of home remodeling such as dry-wall, insulation, flooring, and other duties.</li>
+                <li>Monitor worksite to ensure compliance with safety regulations.</li>
+                <li> Earned a reputation as a trusted technician.</li>
+                <li>Train new employees on proper handling of equipment and safety.</li>
+                <li>Perform special duties for other projects and assist others when needed.</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
+              <h4>Front-Desk Assistant</h4>
               <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <p><em>La Fitness, Leeseburg, VA</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Checked in guests looking to work out and made sure no one snuck in.</li>
+                <li>Help sales by calling guests who had overdue payments and making sale calls for new memberships.</li>
+                <li> Clear weights and sets at the end of each day.</li>
+                <li>Helps guests who had issues with there memberships.</li>
               </ul>
             </div>
           </div>
         </div>
-
       </div>
     </section>
   );

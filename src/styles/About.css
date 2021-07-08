@@ -1,32 +1,3 @@
-/* colors */
-:root {
-    --primary-color: #009c3c;
-    --primary-colorD: #00d853f5;
-    --secondary-color: rgb(255, 174, 0);
-    --tertiary-color: rgb(65, 65, 65);
-    --font-color: #1f1f1f;
-    --secondary-font-color:rgb(228, 228, 228);
-    --border-color: #009e3d;
-    --secondary-border-color:#292b2c;
-    --bg-color: #c3c3c3;
-    --secondary-bg-color: rgb(53, 53, 53);
-    --box-shadow:  0 0 20px #00000086;
-  }
-  
-  [data-theme="dark"] {
-    --primary-color: #3fca95;
-    --primary-colorD: #00bd74;
-    --secondary-color: rgb(255, 196, 0);
-    --tertiary-color: white;
-    --font-color: #f2fff8ca;
-    --secondary-font-color:rgb(192, 192, 192);
-    --border-color:#51fcba ;
-    --secondary-border-color: rgb(37, 37, 37);
-    --bg-color: #292b2c;
-    --secondary-bg-color:rgb(31, 31, 31);
-    --box-shadow: 0 0 20px #51fcba41;
-}
-
 body {
     background-color: var(--bg-color) !important;
 }
@@ -39,7 +10,7 @@ div {
     background-color: var(--secondary-bg-color)
 }
 
-.m-auto {
+.m-autoC {
     margin-top: 10rem !important;
 }
 

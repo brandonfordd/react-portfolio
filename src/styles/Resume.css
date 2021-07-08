@@ -9,7 +9,7 @@ section {
 
 .section-title {
   padding-bottom: 30px;
-  color: white; 
+  color: white;
 }
 
 .section-title h2 {
@@ -18,7 +18,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #173b6c;
+  color: var(--primary-color); 
 }
 
 .section-title h2::after {
@@ -27,7 +27,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: var(--secondary-color);
   bottom: 0;
   left: 0;
 }
@@ -41,15 +41,15 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #c2c2c2;
+  color: rgb(175, 175, 175);
 }
 
 .resume .resume-item {
   padding: 0 0 20px 20px;
   margin-top: -2px;
-  border-left: 2px solid #1f5297;
+  border-left: 2px solid var(--primary-color);
   position: relative;
-  color: white;
+  color: var(--font-color);
 }
 
 .resume .resume-item h4 {
@@ -58,13 +58,13 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: var(--secondary-color);
   margin-bottom: 10px;
 }
 
 .resume .resume-item h5 {
   font-size: 16px;
-  background: #e4edf9;
+  background: #646464;
   padding: 5px 15px;
   display: inline-block;
   font-weight: 600;
@@ -92,5 +92,5 @@ section {
   left: -9px;
   top: 0;
   background: #fff;
-  border: 2px solid #1f5297;
+  border: 2px solid var(--primary-color);
 }

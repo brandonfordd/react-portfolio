@@ -4,7 +4,7 @@
 
 .contact .info {
   padding: 30px;
-  background: #fff;
+  background: rgb(241, 241, 241);
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
@@ -74,8 +74,17 @@
 .contact .php-email-form {
   width: 100%;
   padding: 30px;
-  background: #fff;
-  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
+  color: #fff;
+  background: var(--bg-color);
+  border:solid 2px var(--border-color);
+  outline: none;
+  border-radius: 3px;
+  box-shadow: none;
+}
+
+.contact .php-email-form:hover {
+    animation: animated-border 1.5s infinite;
+    border-color: var(--secondary-color);
 }
 
 .contact .php-email-form .form-group {
@@ -184,4 +193,5 @@
     transform: rotate(360deg);
   }
 }
+
   

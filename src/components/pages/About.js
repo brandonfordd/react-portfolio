@@ -58,7 +58,7 @@ const styles = {
 
 export default function About() {
   return (
-    <div className="container m-auto" id="about-me">
+    <div className="container m-autoC" id="about-me">
       <div className="row">
         <div className="col-md-12 col-lg-6">
           <div className="col-md-8 col-lg-10 aboutCard">

@@ -1,4 +1,10 @@
 /* Projects section */
+
+#work {
+    margin-top: 7rem;
+    margin-bottom: 5rem;
+}
+
 .projectsTitle {
     margin-bottom: 0;
     margin-top: 50px;
@@ -112,3 +118,77 @@
 .iconify {
     margin-bottom: 2px;
 }
+
+/* random css */
+.p-border-color {
+    border: solid;
+   color: var(--border-color);
+  }
+  
+  
+  .p-outline {
+    border-color:var(--primary-color);
+  }
+  
+  .p-background-color {
+    background-color: var(--bg-color);
+  }
+  
+  .p-btn-color {
+    background-color: var(--primary-color);
+  }
+  .p-btn-color:hover {
+    background-color: var(--primary-colorD);
+  }
+  
+  .s-background-color {
+    background-color: var(--secondary-border-color);
+  }
+  
+  .p-font-color {
+    color: var(--font-color);
+  }
+  
+  .p-primary-color {
+    color: var(--primary-color);
+  }
+  .p-secondary-color {
+    color: var(--secondary-color);
+  }
+  
+  .p-tertiary-color {
+    color: var(--tertiary-color);
+  }
+  
+  .m-lc {
+    margin-left: 0px;
+  }
+  
+  .theme-text {
+    height: 7px;
+  }
+  
+  .noWrap {
+    white-space:nowrap;
+  }
+  
+  /* row margin none */
+  .row-mn {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  
+  .paddingTop {
+    padding-top: 26px;
+  }
+  
+  .img-border-width {
+    border-right: none;
+    cursor: none;
+  }
+  
+  .textS {
+    text-shadow: 2px 1px 0px var(--tertiary-color);
+  }
+  
